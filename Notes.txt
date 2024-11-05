@@ -1,0 +1,4 @@
+## Lottery 
+We are given a lottery tickets with a three digit numbers.
+The numbers will be generated randomly.
+When the sum of all the numbers will be 15, then the you will wim.
